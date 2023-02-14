@@ -1,0 +1,9 @@
+/*
+  Localizable.strings
+  SimpleText
+
+  Created by Maxence Bekier on 21/09/2022.
+  
+*/
+
+"slider.text_size" = "Taille du texte:";
